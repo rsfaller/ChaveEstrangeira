@@ -1,0 +1,13 @@
+C:\Users\Rodrigo\AppData\Local\Temporary Projects\ChaveEstrangeira\bin\Debug\ChaveEstrangeira.exe.config
+C:\Users\Rodrigo\AppData\Local\Temporary Projects\ChaveEstrangeira\bin\Debug\ChaveEstrangeira.exe
+C:\Users\Rodrigo\AppData\Local\Temporary Projects\ChaveEstrangeira\bin\Debug\ChaveEstrangeira.pdb
+C:\Users\Rodrigo\AppData\Local\Temporary Projects\ChaveEstrangeira\obj\Debug\ChaveEstrangeira.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\AppData\Local\Temporary Projects\ChaveEstrangeira\obj\Debug\ChaveEstrangeira.exe
+C:\Users\Rodrigo\AppData\Local\Temporary Projects\ChaveEstrangeira\obj\Debug\ChaveEstrangeira.pdb
+C:\Users\Rodrigo\source\repos\ChaveEstrangeira\ChaveEstrangeira\bin\Debug\ChaveEstrangeira.exe.config
+C:\Users\Rodrigo\source\repos\ChaveEstrangeira\ChaveEstrangeira\bin\Debug\ChaveEstrangeira.exe
+C:\Users\Rodrigo\source\repos\ChaveEstrangeira\ChaveEstrangeira\bin\Debug\ChaveEstrangeira.pdb
+C:\Users\Rodrigo\source\repos\ChaveEstrangeira\ChaveEstrangeira\obj\Debug\ChaveEstrangeira.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\source\repos\ChaveEstrangeira\ChaveEstrangeira\obj\Debug\ChaveEstrangeira.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\source\repos\ChaveEstrangeira\ChaveEstrangeira\obj\Debug\ChaveEstrangeira.exe
+C:\Users\Rodrigo\source\repos\ChaveEstrangeira\ChaveEstrangeira\obj\Debug\ChaveEstrangeira.pdb
